@@ -5,8 +5,8 @@ from constants import ___
 
 def get_transaction_amount(
         transaction_id: int,
-        transactions_amounts_map: dict[int, decimal.Decimal()]
-) -> decimal.Decimal():
+        transactions_amounts_map: dict[int, decimal.Decimal]
+) -> decimal.Decimal | None:
     pass
 
 

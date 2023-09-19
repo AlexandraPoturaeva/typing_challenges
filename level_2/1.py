@@ -2,7 +2,7 @@ from constants import ___
 from decimal import Decimal
 
 
-def get_avg_currency_rate(rates_history: list[Decimal()]) -> Decimal():
+def get_avg_currency_rate(rates_history: list[Decimal]) -> Decimal():
     pass
 
 
